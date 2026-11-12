@@ -5,14 +5,8 @@ import '../product.dart';
 class ProductCard extends StatelessWidget {
   final Product product;
   final VoidCallback? onTap;
-  final VoidCallback? onAddToCart;
 
-  const ProductCard({
-    super.key,
-    required this.product,
-    this.onTap,
-    this.onAddToCart,
-  });
+  const ProductCard({super.key, required this.product, this.onTap});
 
   @override
   Widget build(BuildContext context) {
@@ -181,7 +175,7 @@ class ProductCard extends StatelessWidget {
                   ),
                   const SizedBox(height: 10),
 
-                  // Price + Add button
+                  // Price
                   Row(
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: [
@@ -209,35 +203,6 @@ class ProductCard extends StatelessWidget {
                               ),
                             ),
                           ],
-                        ),
-                      ),
-                      // Add to cart button
-                      GestureDetector(
-                        onTap: onAddToCart,
-                        child: Container(
-                          width: 36,
-                          height: 36,
-                          decoration: BoxDecoration(
-                            gradient: const LinearGradient(
-                              colors: [Color(0xFF4361EE), Color(0xFF3A0CA3)],
-                              begin: Alignment.topLeft,
-                              end: Alignment.bottomRight,
-                            ),
-                            borderRadius: BorderRadius.circular(12),
-                            boxShadow: [
-                              BoxShadow(
-                                color: const Color(0xFF4361EE)
-                                    .withValues(alpha: 0.4),
-                                blurRadius: 8,
-                                offset: const Offset(0, 4),
-                              ),
-                            ],
-                          ),
-                          child: const Icon(
-                            Icons.add_rounded,
-                            color: Colors.white,
-                            size: 22,
-                          ),
                         ),
                       ),
                     ],
