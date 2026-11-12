@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Over-Ear Headphones",
+    "description": "Comfortable Bluetooth headphones with active noise cancellation and 30-hour battery life.",
+    "category": "electronics",
+    "price": 79.99,
+    "discountPercentage": 10,
+    "rating": 4.6,
+    "stock": 24,
+    "tags": [
+      "audio",
+      "wireless"
+    ],
+    "brand": "SoundPeak",
+    "sku": "CAT-001",
+    "weight": 0.25,
+    "dimensions": {
+      "width": 18,
+      "height": 20,
+      "depth": 8
+    },
+    "warrantyInformation": "1 year limited warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Clear sound and comfortable during long study sessions.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer1@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000001",
+      "qrCode": "https://example.com/products/1"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=640&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Everyday Canvas Backpack",
+    "description": "A 20-liter backpack with a padded 15-inch laptop sleeve and two bottle pockets.",
+    "category": "bags",
+    "price": 39.5,
+    "discountPercentage": 5,
+    "rating": 4.5,
+    "stock": 18,
+    "tags": [
+      "backpack",
+      "university"
+    ],
+    "brand": "TrailCraft",
+    "sku": "CAT-002",
+    "weight": 0.65,
+    "dimensions": {
+      "width": 30,
+      "height": 44,
+      "depth": 15
+    },
+    "warrantyInformation": "6 month manufacturing defect warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Fits my laptop and books without feeling bulky.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer2@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000002",
+      "qrCode": "https://example.com/products/2"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=640&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Stainless Steel Water Bottle",
+    "description": "A reusable 750 ml insulated bottle that keeps drinks cold for up to 24 hours.",
+    "category": "home",
+    "price": 24.99,
+    "discountPercentage": 0,
+    "rating": 4.7,
+    "stock": 40,
+    "tags": [
+      "bottle",
+      "reusable"
+    ],
+    "brand": "FreshTrail",
+    "sku": "CAT-003",
+    "weight": 0.35,
+    "dimensions": {
+      "width": 8,
+      "height": 28,
+      "depth": 8
+    },
+    "warrantyInformation": "6 month manufacturing defect warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Keeps water cool throughout the day.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer3@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000003",
+      "qrCode": "https://example.com/products/3"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=640&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Mechanical Study Keyboard",
+    "description": "A compact USB-C mechanical keyboard with tactile switches and adjustable white backlighting.",
+    "category": "electronics",
+    "price": 64.99,
+    "discountPercentage": 15,
+    "rating": 4.4,
+    "stock": 12,
+    "tags": [
+      "keyboard",
+      "computer"
+    ],
+    "brand": "KeyHarbor",
+    "sku": "CAT-004",
+    "weight": 0.8,
+    "dimensions": {
+      "width": 32,
+      "height": 4,
+      "depth": 12
+    },
+    "warrantyInformation": "1 year limited warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Tactile keys make typing assignments pleasant.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer4@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000004",
+      "qrCode": "https://example.com/products/4"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=640&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Adjustable LED Desk Lamp",
+    "description": "A dimmable desk lamp with three color temperatures and a flexible arm for focused reading.",
+    "category": "home",
+    "price": 32,
+    "discountPercentage": 8,
+    "rating": 4.6,
+    "stock": 20,
+    "tags": [
+      "lighting",
+      "study"
+    ],
+    "brand": "LumaDesk",
+    "sku": "CAT-005",
+    "weight": 0.9,
+    "dimensions": {
+      "width": 16,
+      "height": 42,
+      "depth": 22
+    },
+    "warrantyInformation": "6 month manufacturing defect warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "The warm setting is great for evening reading.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer5@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000005",
+      "qrCode": "https://example.com/products/5"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=640&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Everyday Running Shoes",
+    "description": "Lightweight running shoes with breathable mesh and cushioned soles for daily exercise.",
+    "category": "footwear",
+    "price": 59.99,
+    "discountPercentage": 12,
+    "rating": 4.3,
+    "stock": 30,
+    "tags": [
+      "shoes",
+      "running"
+    ],
+    "brand": "StrideWorks",
+    "sku": "CAT-006",
+    "weight": 0.55,
+    "dimensions": {
+      "width": 30,
+      "height": 12,
+      "depth": 20
+    },
+    "warrantyInformation": "6 month manufacturing defect warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Comfortable for walking across campus.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer6@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000006",
+      "qrCode": "https://example.com/products/6"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=640&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Ceramic Coffee Mug",
+    "description": "A dishwasher-safe 350 ml ceramic mug with a comfortable handle and matte finish.",
+    "category": "kitchen",
+    "price": 12.5,
+    "discountPercentage": 0,
+    "rating": 4.8,
+    "stock": 50,
+    "tags": [
+      "mug",
+      "coffee"
+    ],
+    "brand": "MorningClay",
+    "sku": "CAT-007",
+    "weight": 0.32,
+    "dimensions": {
+      "width": 12,
+      "height": 10,
+      "depth": 9
+    },
+    "warrantyInformation": "6 month manufacturing defect warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "A sturdy mug with a comfortable handle.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer7@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000007",
+      "qrCode": "https://example.com/products/7"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?auto=format&fit=crop&w=640&q=80"
+  },
+  {
+    "id": 8,
+    "title": "A5 Hardcover Notebook",
+    "description": "A durable A5 notebook with 160 ruled pages, an elastic closure, and a ribbon bookmark.",
+    "category": "stationery",
+    "price": 9.99,
+    "discountPercentage": 5,
+    "rating": 4.5,
+    "stock": 75,
+    "tags": [
+      "notebook",
+      "study"
+    ],
+    "brand": "PaperNest",
+    "sku": "CAT-008",
+    "weight": 0.28,
+    "dimensions": {
+      "width": 15,
+      "height": 21,
+      "depth": 2
+    },
+    "warrantyInformation": "6 month manufacturing defect warranty",
+    "shippingInformation": "Ships within 2-4 business days",
+    "availabilityStatus": "In Stock",
+    "reviews": [
+      {
+        "rating": 5,
+        "comment": "Good paper for lecture notes.",
+        "date": "2026-10-20T12:00:00.000Z",
+        "reviewerName": "Demo Customer",
+        "reviewerEmail": "customer8@example.com"
+      }
+    ],
+    "returnPolicy": "30 day returns for unused products",
+    "minimumOrderQuantity": 1,
+    "meta": {
+      "createdAt": "2026-10-01T09:00:00.000Z",
+      "updatedAt": "2026-11-01T09:00:00.000Z",
+      "barcode": "2000000000008",
+      "qrCode": "https://example.com/products/8"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=640&q=80"
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?auto=format&fit=crop&w=640&q=80"
+  }
+]
